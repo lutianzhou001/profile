@@ -1,36 +1,24 @@
-## Welcome to GitHub Pages
+## Personal Introduction for Vincent Lu
 
-You can use the [editor on GitHub](https://github.com/lutianzhou001/vincent.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there,  Welcome to my github page. I learned it from https://sspai.com/post/54608. It is quite easy to establish a project to introduce to yourself in github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact me
 
-### Markdown
+email: lutianzhou@yuhu.tech
+tel: 0086051265130173
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Perosnal Messages
 
-```markdown
-Syntax highlighted code block
+Working Experience : 2018.8-       Yuhu Tech, Shanghai, Blockchain Engineer
+                     2011.7-2018.7 China Telecom Suzhou Branch, Database Engineer
+Learning Experience :2018.6-2018.7 Fudan University, Blockchain Training
+                     2007.9-2011.6 Nanjing University of Posts and Telecommunications, Optical Information Science and Technology, Bachelor of Science
+                     2004.9-2007.6 Suzhou High School
 
-# Header 1
-## Header 2
-### Header 3
+### Skills
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lutianzhou001/vincent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+nodejs, golang, C, python, JS
+mysql, Oracle
 
 ### Support or Contact
 
