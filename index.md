@@ -9,10 +9,10 @@ tel: 0086051265130173
 
 ### Perosnal Messages
 
-Working Experience : 2018.8-       Yuhu Tech, Shanghai, Blockchain Engineer
-2011.7-2018.7 China Telecom Suzhou Branch, Database Engineer
-Learning Experience :2018.6-2018.7 Fudan University, Blockchain Training
-2007.9-2011.6 Nanjing University of Posts and Telecommunications, Optical Information Science and Technology, Bachelor of Science
+Working Experience : 2018.8-       Yuhu Tech, Shanghai, Blockchain Engineer . 
+2011.7-2018.7 China Telecom Suzhou Branch, Database Engineer . 
+Learning Experience :2018.6-2018.7 Fudan University, Blockchain Training . 
+2007.9-2011.6 Nanjing University of Posts and Telecommunications, Optical Information Science and Technology, Bachelor of Science . 
 2004.9-2007.6 Suzhou High School
 
 ### Skills
